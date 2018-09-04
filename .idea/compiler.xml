@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="myAOP" />
+        <module name="myBatis" />
+        <module name="myJDBC" />
+        <module name="myRedis" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="myAOP" target="1.8" />
+      <module name="myBatis" target="1.8" />
+      <module name="myJDBC" target="1.8" />
+      <module name="myRedis" target="1.8" />
+      <module name="springboot" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

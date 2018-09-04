@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/myAOP/myAOP.iml" filepath="$PROJECT_DIR$/myAOP/myAOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myBatis/myBatis.iml" filepath="$PROJECT_DIR$/myBatis/myBatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myBatis/myBatis.iml" filepath="$PROJECT_DIR$/myBatis/myBatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myJDBC/myJDBC.iml" filepath="$PROJECT_DIR$/myJDBC/myJDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myRedis/myRedis.iml" filepath="$PROJECT_DIR$/myRedis/myRedis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot.iml" filepath="$PROJECT_DIR$/springboot.iml" />
+    </modules>
+  </component>
+</project>
